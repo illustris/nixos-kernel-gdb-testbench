@@ -1,0 +1,11 @@
+# Nix build results
+result*
+
+# VM persistent storage
+*.qcow2
+
+# Editor files
+*~
+
+# Goose
+.goose/
